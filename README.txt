@@ -1,1 +1,0 @@
-This is my first project! In this tribute page, I will be documenting the timeline of Julius Caesar!
