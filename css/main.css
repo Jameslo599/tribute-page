@@ -1,0 +1,32 @@
+/*Style Sheets*/
+body {
+    background-color: lightslategray;
+}
+#main {
+    font-family: Cambria;
+    display: flex;
+    flex-direction: column;
+    flex-basis: auto;
+    background-color: lightskyblue;
+}
+#timeline {
+    font-size: 22px;
+}
+.center {
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.justify {
+    text-align: justify;
+    padding-block: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
